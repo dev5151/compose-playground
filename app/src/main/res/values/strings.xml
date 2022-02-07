@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Experiment</string>
+    <string name="otp_channel">otpchannel</string>
+    <string name="notification_title">OTP</string>
+</resources>
